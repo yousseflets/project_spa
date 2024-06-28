@@ -1,0 +1,46 @@
+.project_details {
+    padding: 1em;
+    background-color: #cb9999;
+  }
+  
+  .project_details h1,
+  .project_details h2,
+  .project_details p {
+    margin-bottom: 0.5em;
+
+  }
+  
+  .project_details h1 {
+    color: #000;
+    font-family: "Clicker Script", cursive;
+  }
+  
+  .project_details p {
+    color: #000;
+    padding: 0.4em;
+    flex-wrap: wrap;
+    margin-bottom: 0.5em;
+  }
+  
+  .details_container{
+    padding-bottom: 1.2em;
+    margin-bottom: 1.2em;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .details_container1{
+    padding: 4em;
+    padding-bottom: 1.2em;
+    margin-bottom: 1.2em;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+
+  .form {
+    width: 30%;
+    justify-content: center;
+    text-align: center;
+  }
